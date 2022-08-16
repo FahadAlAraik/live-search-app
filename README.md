@@ -14,6 +14,7 @@
  
  the application detects your database columns and data, you need only to do the database connection
 </pre>
+<br>
 <hr>
 <br>
 <h1>
@@ -22,7 +23,7 @@
 
 https://user-images.githubusercontent.com/51764194/184923736-c8f87dab-2472-43f8-8a10-7c21e8661cc6.mp4
 
-
+<br>
 <hr>
 <br>
 
