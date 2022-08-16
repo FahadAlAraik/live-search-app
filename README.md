@@ -18,6 +18,7 @@ a search bar that fetches data from server based on user's current input without
 <h1>
 # A video that demonstrate how the search works
 </h1>
+
 https://user-images.githubusercontent.com/51764194/184923736-c8f87dab-2472-43f8-8a10-7c21e8661cc6.mp4
 
 
