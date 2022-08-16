@@ -1,10 +1,10 @@
 # live-search-app
 <br>
-<h3>a search bar that fetches data from server based on user's current input without submitting</h3>
+<h1>This app is developed using react-redux-nodejs-mysql database</h1>
+<br>
+<h3>A search bar that fetches data from server based on user's current input without submitting</h3>
 <br>
 <pre>
- this app is developed using react-redux-nodejs-mysql database
- 
  it fetches data from the server -> display it in a table
  
  a search bar is represented on top of the table and choices radio button beneath it
