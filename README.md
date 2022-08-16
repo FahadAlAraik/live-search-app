@@ -1,6 +1,6 @@
 # live-search-app
 <br>
-<h1>This app is developed using react-redux-nodejs-mysql database</h1>
+<h2>This app is developed using react-redux-nodejs-mysql database</h2>
 <br>
 <h3>A search bar that fetches data from server based on user's current input without submitting</h3>
 <br>
