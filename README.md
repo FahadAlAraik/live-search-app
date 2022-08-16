@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/51764194/184923736-c8f87dab-2472-43f8-
 
 # How to use
 
- 1- download the files for frontend and backend.\n
+ 1- download the files for frontend and backend.<br>
  2- before starting the both files you must npm i on both directories.
  3- happy searching !.
 
