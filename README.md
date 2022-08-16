@@ -28,9 +28,16 @@ https://user-images.githubusercontent.com/51764194/184923736-c8f87dab-2472-43f8-
 
  <h1>How to use</h1>
 
- 1- download the files for frontend and backend.<br>
- 2- before starting the both files you must npm i on both directories.<br>
- 3- happy searching !.
+ <ol>
+ 
+  <li>Download the zip file</li>
+  <li>run { npm i } on both files and run {npm init -y on express file (backend folder)}</li>
+  <li>make sure the main is {"main": "app.js"} in backend</li>
+  <li>connect to your database {host,user,password,database} and change the tableName and tableSchema variables</li>  
+  <li>Change api destination if you want</li>
+ </ol>
+ 
+ <p>happy searching!</p>
 
 
 
