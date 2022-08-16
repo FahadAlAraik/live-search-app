@@ -12,9 +12,11 @@ a search bar that fetches data from server based on user's current input without
 https://user-images.githubusercontent.com/51764194/184923736-c8f87dab-2472-43f8-8a10-7c21e8661cc6.mp4
 
 
-# 1- download the files for frontend and backend
-# 2- before starting the both files you must npm i on both directories
-# 3- happy searching !
+# How to use
+
+ 1- download the files for frontend and backend
+ 2- before starting the both files you must npm i on both directories
+ 3- happy searching !
 
 
 # Fahad Al-Araik
