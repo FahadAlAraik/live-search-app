@@ -3,9 +3,14 @@ a search bar that fetches data from server based on user's current input without
 
 <pre>
  this app is developed using react-redux-nodejs-mysql database
+ 
  it fetches data from the server -> display it in a table
+ 
  a search bar is represented on top of the table and choices radio button beneath it
- the choices for search are taken from the database columns (for example if your database has 3 columns {id,name,age} -> these will be the search choices
+ 
+ the choices for search are taken from the database columns 
+ (for example if your database has 3 columns {id,name,age} -> these will be the search choices)
+ 
  the application detects your database columns and data, you need only to do the database connection
 </pre>
 # A video that demonstrate how the search works
