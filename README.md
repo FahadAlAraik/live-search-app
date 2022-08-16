@@ -1,7 +1,7 @@
 # live-search-app
 <br>
 <h3>a search bar that fetches data from server based on user's current input without submitting</h3>
-
+<br>
 <pre>
  this app is developed using react-redux-nodejs-mysql database
  
