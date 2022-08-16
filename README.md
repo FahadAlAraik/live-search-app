@@ -2,7 +2,8 @@
 <br>
 <h2>This app is developed using react-redux-nodejs-mysql database</h2>
 <h3>A search bar that fetches data from server based on user's current input without submitting</h3>
-<br>
+
+
 <pre>
  it fetches data from the server -> display it in a table
  
